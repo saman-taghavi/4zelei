@@ -7,8 +7,14 @@
                 </div>
             </div>
             <nav class="md:ml-auto my-3 md:my-3 md:pl-4 flex flex-wrap items-center text-base justify-center">
-                <a class="mx-2 hover:text-gray-900">خدمات ما</a>
-                <a class="mx-2 hover:text-gray-900">درباره ما</a>
+                <button
+                    class="mx-2 bg-primary  backdrop-blur-sm hover:ring-2 rounded-sm ring-offset-2 ring-primary  text-white hover:text-primary hover:bg-white btn  ">
+                    <a>خدمات ما</a>
+                </button>
+                <button
+                    class="mx-2 bg-primary  backdrop-blur-sm hover:ring-2 rounded-sm ring-offset-2 ring-primary  text-white hover:text-primary hover:bg-white btn  ">
+                    <a>درباره ما</a>
+                </button>
             </nav>
         </div>
     </header>
