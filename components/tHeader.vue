@@ -1,7 +1,7 @@
 <template>
     <header class="text-gray-600 body-font  ">
         <div class=" container mx-auto flex flex-wrap py-5  flex-col md:flex-row items-center">
-            <nuxt-link to="/" class="avatar mx-3">
+            <nuxt-link to="/" class="avatar ">
                 <div class="w-32 h-24 rounded bg-[url('4ze.jpg')]  bg-cover">
                 </div>
             </nuxt-link>

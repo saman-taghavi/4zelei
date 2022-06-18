@@ -23,7 +23,7 @@
             <p class="text-sm mx-auto text-gray-500 sm:text-base">
                 4Zelei © 2020 All rights reserved.
             </p>
-            <div class="avatar mx-3">
+            <div class="avatar">
                 <div class="w-32 h-24 rounded bg-[url('4ze.jpg')]  bg-cover">
                 </div>
             </div>
