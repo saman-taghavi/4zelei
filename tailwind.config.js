@@ -1,14 +1,5 @@
-/** @type {import('tailwindcss').Config} */
 module.exports = {
-  plugins: [require("@tailwindcss/typography"), require("daisyui")],
   daisyui: {
-    styled: true,
-    styled: true,
-    // themes: true,
-    base: true,
-    utils: true,
-    logs: true,
-
     themes: [
       {
         mytheme: {
@@ -20,17 +11,17 @@ module.exports = {
 
           neutral: "#DFE0DF",
 
-          "base-100": "#2A303C",
+          "base-100": "#fdfffe",
 
           info: "#64BAAA",
 
           success: "#00A12B",
 
           warning: "#FBBD23",
-
           error: "#9D2200",
         },
       },
     ],
   },
+  plugins: [require("@tailwindcss/typography"), require("daisyui")],
 };
