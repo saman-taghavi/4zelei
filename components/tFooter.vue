@@ -1,6 +1,6 @@
 <template>
     <footer class="text-gray-600 body-font">
-        <div class="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
+        <div class="container py-8 mx-auto flex items-center sm:flex-row flex-col">
             <div class="avatar mx-3">
                 <div class="w-32 h-24 rounded bg-[url('4ze.jpg')]  bg-cover">
                 </div>
